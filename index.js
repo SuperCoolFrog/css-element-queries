@@ -1,4 +1,4 @@
 module.exports = {
-    ResizeSensor: require('./src/ResizeSensor'),
-    ElementQueries: require('./src/ElementQueries')
+    ResizeSensor: require('./src/resize-sensor'),
+    ElementQueries: require('./src/element-queries')
 };
